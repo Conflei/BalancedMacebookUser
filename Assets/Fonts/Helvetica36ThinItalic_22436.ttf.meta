@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bf0b38771cbc64c2da073e971db17820
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica 35 Thin
+  fontNames:
+  - Helvetica 35 Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f4584f9baf0d949289ac266ed5cac0ce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

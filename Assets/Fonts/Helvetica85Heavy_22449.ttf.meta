@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7aa380b407ddc4196808dd96d1f76b36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica 65 Medium
+  fontNames:
+  - Helvetica 65 Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d451dc6f478a949d7a0f993cc94422d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
